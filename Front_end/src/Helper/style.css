@@ -1,0 +1,80 @@
+.modal_wrapper {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: rgba(189, 189, 189, 0.9);
+}
+
+.modal_container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 2rem 3rem;
+    border-radius: 20px;
+}
+
+.modal_wrapper_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: rgba(189, 189, 189, 0.9);
+}
+
+.modal_container_2 {
+    /* position: fixed; */
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    margin: 3rem 4rem;
+    background-color: white;
+    padding: 2rem 3rem;
+    border-radius: 20px;
+}
+
+.form_style {
+    height: 23rem;
+    width: 23rem;
+}
+
+.modal_wrapper_3 {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: rgba(189, 189, 189, 0.9);
+}
+
+.modal_container_3 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 2rem 3rem;
+    border-radius: 20px;
+}
+
+.form_submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cntr {
+    text-align: center;
+}
+
+.user_box {
+    border: 2px solid black;
+    width: 100vh;
+}
